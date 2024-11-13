@@ -1,1 +1,1 @@
-# SPPU-BCT-Practicals
+# SPPU BCT Practicals
